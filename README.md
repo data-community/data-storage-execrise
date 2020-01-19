@@ -10,4 +10,6 @@
 1. Do a basic profile for your program and identify the slowest part
 2. Try to improve the performance.
 ### There are multiple text source files. 
-1. What is the performance for the same operation, and how to optimize the program.
+1. Refactor your program to increase performance. (Hint: multithreading?) Feel free to make some assumptions.
+### There are mulitple text source files with total size > 100 GB
+1. What will happens when you running your program? Why? How to improve it (Hint: https://towardsdatascience.com/why-and-how-to-use-pandas-with-large-data-9594dda2ea4c)

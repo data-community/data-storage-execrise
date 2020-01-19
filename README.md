@@ -9,6 +9,7 @@
 ### Given the single text file, how to speed up our program
 1. Do a basic profile for your program and identify the slowest part
 2. Try to improve the performance.
+3. Add compression algorithm while write parquet file, and tuning & watch
 ### There are multiple text source files. 
 1. Refactor your program to increase performance. (Hint: multithreading?) Feel free to make some assumptions.
 ### There are mulitple text source files with total size > 100 GB
